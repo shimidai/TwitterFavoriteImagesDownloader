@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/shimidai/TwitterFavoriteImagesDownloader)
+
 # TwitterFavoriteImagesDownloader
 A program to save the images of your favorite tweets locally.
 
